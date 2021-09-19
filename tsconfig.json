@@ -19,8 +19,8 @@
     "noEmit": true,
     "noFallthroughCasesInSwitch": true,
     "jsx": "react-jsx",
-    "rootDir": "src",
-    "baseUrl": "src"
+    // "rootDir": "src",
+    // "baseUrl": "src"
   },
   "include": [
     "src"
